@@ -1,6 +1,6 @@
 # Bank Loan Predictor
 
-![Bank Loan Predictor](URL_TO_YOUR_PROJECT_LOGO_OR_BANNER_IMAGE)
+![Bank Loan Predictor](https://github.com/shaarang12/bank-loan-predictor/blob/main/bank_loan.png)
 
 ## Table of Contents
 - [Overview](#overview)
