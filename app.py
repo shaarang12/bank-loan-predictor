@@ -84,13 +84,13 @@ def run():
             st.error(
                 "Hello: " + fn +" || "
                 "Account number: "+account_no +' || '
-                'According to our Calculations, you will not get the loan from Bank'
+                'Sorry! Your Loan is not Approved.'
             )
         else:
             st.success(
                 "Hello: " + fn +" || "
                 "Account number: "+account_no +' || '
-                'Congratulations!! you will get the loan from Bank'
+                'Congratulations!! Your Loan is Approved!'
             )
 
 run()
